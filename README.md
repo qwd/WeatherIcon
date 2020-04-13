@@ -1,5 +1,7 @@
 # 和风天气图标 Heweather Icon
 
+![Screenshot](https://raw.githubusercontent.com/heweather/WeatherIcon/master/icon-v2-screenshot.png)
+
 和风天气图标是一套简单的、扁平化的图标，用于在你的产品上使用图形展示天气状况。我们提供了`.ai`格式的源文件，你可以自由的裁剪出适合你的尺寸或者编辑图标的颜色。
 
 The weather icon are flat design icons for our weather APIs and SDK, we also provide the source file in `ai` format, so you can edit them freely.

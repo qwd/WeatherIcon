@@ -1,10 +1,12 @@
 # 和风天气图标 Heweather Icon
 
-![Screenshot](https://raw.githubusercontent.com/heweather/WeatherIcon/master/icon-v2-screenshot.png)
+和风天气提供了两套漂亮的天气图标，用于在你的产品上使用图形展示天气状况。在天气图标S1版中我们还提供了`.ai`格式的源文件，你可以自由的裁剪出适合你的尺寸或者编辑图标的颜色。
 
-和风天气图标是一套简单的、扁平化的图标，用于在你的产品上使用图形展示天气状况。我们提供了`.ai`格式的源文件，你可以自由的裁剪出适合你的尺寸或者编辑图标的颜色。
+Heweather released 2 beautiful sets of icons for our weather APIs and SDK, we also provide the `.ai` source file for Set 2 (S2), so you can edit them freely.
 
-The weather icon are flat design icons for our weather APIs and SDK, we also provide the source file in `ai` format, so you can edit them freely.
+![Set1 Screenshot](https://raw.githubusercontent.com/heweather/WeatherIcon/master/weather-icon-S1/s1-screenshot.jpg)
+
+![Set2 Screenshot](https://raw.githubusercontent.com/heweather/WeatherIcon/master/weather-icon-S2/S2-screenshot.jpg)
 
 ## 使用
 
@@ -89,3 +91,4 @@ The weather icon are flat design icons for our weather APIs and SDK, we also pro
 [知识共享 署名 4.0 国际](https://creativecommons.org/licenses/by/4.0/deed.zh)
 
 [CC-BY-40](http://creativecommons.org/licenses/by/4.0/)
+

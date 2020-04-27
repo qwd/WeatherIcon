@@ -4,9 +4,7 @@
 
 Heweather released 2 beautiful sets of icons for our weather APIs and SDK, we also provide the `.ai` source file for Set 2 (S2), so you can edit them freely.
 
-![Set1 Screenshot](https://raw.githubusercontent.com/heweather/WeatherIcon/master/weather-icon-S1/s1-screenshot.jpg)
-
-![Set2 Screenshot](https://raw.githubusercontent.com/heweather/WeatherIcon/master/weather-icon-S2/S2-screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/heweather/WeatherIcon/master/screenshot.png)
 
 ## 使用
 

@@ -1,10 +1,10 @@
-# 和风天气图标 Heweather Icon
+# 和风天气图标 QWeather Icon
 
 和风天气提供了两套漂亮的天气图标，用于在你的产品上使用图形展示天气状况。在天气图标S1版中我们还提供了`.ai`格式的源文件，你可以自由的裁剪出适合你的尺寸或者编辑图标的颜色。
 
-Heweather released 2 beautiful sets of icons for our weather APIs and SDK, we also provide the `.ai` source file for Set 2 (S2), so you can edit them freely.
+QWeather released 2 beautiful sets of icons for our weather APIs and SDK, we also provide the `.ai` source file for Set 2 (S2), so you can edit them freely.
 
-![Screenshot](https://raw.githubusercontent.com/heweather/WeatherIcon/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/qwd/WeatherIcon/master/screenshot.png)
 
 ## 使用
 

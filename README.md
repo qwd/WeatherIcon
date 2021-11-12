@@ -1,3 +1,7 @@
+> 本项目不再更新，请使用[新版本的和风天气图标项目](https://github.com/qwd/Icons)
+> 
+> This project is no longer updated, please see the new version: [QWeather Icons](https://github.com/qwd/Icons)
+
 # 和风天气图标 QWeather Icon
 
 和风天气提供了两套漂亮的天气图标，用于在你的产品上使用图形展示天气状况。在天气图标S1版中我们还提供了`.ai`格式的源文件，你可以自由的裁剪出适合你的尺寸或者编辑图标的颜色。
